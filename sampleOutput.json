@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Anna Chernova, Helen Regan",
+      "title": "Putin replaces Russia’s defense minister with a civilian as Ukraine war rages and defense spending spirals - CNN",
+      "description": "Russian President Vladimir Putin has replaced his defense minister and close ally Sergei Shoigu with a civilian economist, a major reshuffle of military leadership more than two-years after Moscow’s grinding war against Ukraine has sent defense spending soari…",
+      "url": "https://www.cnn.com/2024/05/12/europe/sergei-shoigu-putin-replaces-defense-minister-intl-latam/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-04-26t100156z-1728538298-rc24e7apzs6j-rtrmadp-3-ukraine-crisis-russia-shoigu.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-13T04:36:00Z",
+      "content": "Russian President Vladimir Putin has replaced his defense minister and close ally Sergei Shoigu with a civilian economist, a major reshuffle of military leadership more than two-years after Moscows g… [+4667 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "THE ASSOCIATED PRESS",
+      "title": "Russia-Ukraine war: At least 13 killed after Russian apartment building collapses - The Associated Press",
+      "description": "An apartment building has partially collapsed in the Russian border city of Belgorod, and officials say at least 13 people have been killed and 20 others injured. Authorities blamed Ukrainian shelling for the building’s destruction Sunday. Online footage show…",
+      "url": "https://apnews.com/article/russia-belgorod-shelling-building-collapse-259b543bb479bea475051850e0b8fd2a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/e5ec4a6/2147483647/strip/true/crop/3319x1867+0+173/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2Fa2%2Fb88a82ccda7acc005a2e07203b4b%2F66e4cbf3b64a4332b83cd87630ee438b",
+      "publishedAt": "2024-05-12T22:05:00Z",
+      "content": "An apartment building partially collapsed in the Russian border city of Belgorod on Sunday, causing at least 13 deaths and injuring 20 other people, officials said. They blamed Ukrainian shelling for… [+1620 chars]"
+    }
+  ]
+}
